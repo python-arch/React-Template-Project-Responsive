@@ -1,0 +1,34 @@
+{
+ "profile" : [
+  {
+    "id": 1,
+    "span" : "Name",
+    "under" : "Abdulrhman Amr"
+  },
+  {
+    "id": 2,
+    "span" : "Birthday",
+    "under" : "8/7/2003"
+  },
+  {
+    "id": 2,
+    "span" :"Address" ,
+    "under" : "Menofia"
+  },
+  {
+    "id": 3,
+    "span" : "Phone",
+    "under" : 01111 248 496
+  },
+  {
+    "id": 4,
+    "span" : "Email",
+    "under" : "amra51548@gmail.com"
+  },
+  {
+    "id": 5,
+    "span" : "Website",
+    "under": "www.google.com"
+  }
+]
+}
